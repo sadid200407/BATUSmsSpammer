@@ -8,9 +8,9 @@ from urllib.parse import urlparse
 import grequests
 
 from information import frisor, head, uklon1, uklon2, zakaz
-from tools.colors import BG, BOLD, FG, RESET_ALL
-from tools.generate_info import GenerateInfo
-from tools.text import colors_list
+from colors import BG, BOLD, FG, RESET_ALL
+from generate_info import GenerateInfo
+from text import colors_list
 
 gc.enable()
 
