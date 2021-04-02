@@ -4,7 +4,7 @@ import os
 from send_requests import send_requests
 from check_input import CheckInput
 from colors import BOLD, FG, RESET_ALL
-from text import banner, cursor, replace
+from texts import banner, cursor, replace
 
 
 def clear_screen():
