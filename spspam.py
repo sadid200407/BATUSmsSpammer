@@ -2,9 +2,9 @@
 import os
 
 from send_requests import send_requests
-from tools.check_input import CheckInput
-from tools.colors import BOLD, FG, RESET_ALL
-from tools.text import banner, cursor, replace
+from check_input import CheckInput
+from colors import BOLD, FG, RESET_ALL
+from text import banner, cursor, replace
 
 
 def clear_screen():
