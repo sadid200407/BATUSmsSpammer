@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import re
-from .colors import RESET_ALL, BOLD, FG
+from colors import RESET_ALL, BOLD, FG
 
 
 class CheckInput:
