@@ -10,7 +10,7 @@ import grequests
 from information import frisor, head, uklon1, uklon2, zakaz
 from colors import BG, BOLD, FG, RESET_ALL
 from generate_info import GenerateInfo
-from text import colors_list
+from texts import colors_list
 
 gc.enable()
 
