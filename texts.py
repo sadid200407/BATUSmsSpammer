@@ -18,10 +18,10 @@ replace = REVERSE + colors
 banner = (
     BLINK
     + f"""{colors}
-   ▄▀▀   █▀▄    ▄▀▀ █▀▄ ▄▀▄ █▄░▄█ ░
-   ░▀▄   █░█░    ▀▄ █░█ █▀█ █░█░█
-   ▀▀░ 0 █▀░0   ▀▀░ █▀░ ▀░▀ ▀░░░▀
+   ▄▀▀  ▄▀▄  █▀▄  █  █▀▄ 
+   ░▀▄  █▀█  █  █  █  █  █ 
+   ▀▀░  ▀  ▀  █ ▀   █  █ ▀
 {RESET_ALL}"""
 )
 
-cursor = BOLD + f"{colors}d.hack >> "
+cursor = BOLD + f"{colors}With Country Code=>>"
