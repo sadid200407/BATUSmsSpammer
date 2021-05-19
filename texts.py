@@ -18,9 +18,9 @@ replace = REVERSE + colors
 banner = (
     BLINK
     + f"""{colors}
-   ▄▀▀  ▄▀▄  █▀▄  █  █▀▄ 
-   ░▀▄  █▀█  █  █  █  █  █ 
-   ▀▀░  ▀ ▀   ▀ ▀   █  ▀ ▀
+   ▄▀▀  ▄▀▄  █▀▄   █  █▀▄ 
+   ░▀▄  █▀█  █  █  █   █  █ 
+   ▀▀░  ▀ ▀  ▀ ▀   █   ▀ ▀
 {RESET_ALL}"""
 )
 
